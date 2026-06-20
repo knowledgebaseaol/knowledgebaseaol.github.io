@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Block nothing
+
+Sitemap: https://knowledgebaseaol.github.io/sitemap.xml
